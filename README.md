@@ -1,16 +1,7 @@
-# note_taking_app
+# Note_Taking_App is a Markdown note taking app. It is a Flutter app that is meant to be used on mobile devices, the web, and desktop. It currently uses Firebase's Firestore to store notes and category information, and automatically saves data and fetches it from the database. It uses Google authentication to protect the notes and for syncing purposes, and allows for note editing/creation. It is currently functional with the ability to create and edit notes, and create, edit, and delete categories.
 
-A new Flutter application.
+Here is a short demo video of the app in its current state: https://youtu.be/97lbhdIAuXs
 
-## Getting Started
+The following are some screenshots of the current UI, most features are functional (Except searching):
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/screen1.png" height="680px"/> <img src="screenshots/screen2.png" height="680px"/> <img src="screenshots/screen3.png" height="680px"/> <img sr
